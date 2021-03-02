@@ -60,6 +60,7 @@ p{
 .notcompleted , .completed{
     margin: 5px 0;
     padding: 20px;
+
 }
 
 h3{
@@ -75,7 +76,7 @@ ol{
 }
 
 ol li{
-    width: 100%;
+    width: 80%;
     padding: 18px;
     margin: 5px 0;
     font-size: 22px;
